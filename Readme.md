@@ -71,7 +71,7 @@ optional arguments:
   --include_raw_citations
                         call GROBID requesting the extraction of raw citations
   --include_raw_affiliations
-                        call GROBID requestiong the extraciton of raw
+                        call GROBID requestiong the extraction of raw
                         affiliations
   --force               force re-processing pdf input files when tei output
                         files already exist
